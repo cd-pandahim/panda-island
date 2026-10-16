@@ -6,7 +6,7 @@ just build it and your done also for the skids take what you want
 <img width="337" height="154" alt="image" src="https://github.com/user-attachments/assets/841906d5-d42c-401a-b575-3bb6307d7243" />
 
 
-<img width="455" height="168" alt="image" src="https://github.com/user-attachments/assets/2ea64fa9-0fac-49cf-930b-d52122587182" />
+
 
 <img width="369" height="161" alt="image" src="https://github.com/user-attachments/assets/1b02a2f2-1d16-46c8-a01b-8d0f2882a716" />
 
