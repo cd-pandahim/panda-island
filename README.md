@@ -1,6 +1,8 @@
 # panda-island
-python only dynamic island for windows and maby linux
-just build it and your done also for the skids take what you want 
+# python only dynamic island for windows and maby linux
+# just build it and your done also for the skids take what you want 
+
+
 <img width="173" height="46" alt="image" src="https://github.com/user-attachments/assets/a1ec58bc-f5f0-4661-94d2-9e441c54f2bd" />
 
 <img width="358" height="133" alt="image" src="https://github.com/user-attachments/assets/96f4f12e-b051-4f06-80b4-b7005345c665" />
